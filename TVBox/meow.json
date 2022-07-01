@@ -2,6 +2,7 @@
 // 我的 --> 设置 -->  配置地址 --> 请输入 https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json --> 确定
 
 
+
 {
 "spider":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB/XBiubiuLA3.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
