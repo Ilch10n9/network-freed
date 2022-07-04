@@ -1,5 +1,5 @@
 {
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/ts0703.jar",
+  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/ts0703.jar;md5;449AA602DCE7E45AF933E7AFC05A07EA",
   "sites": [
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Ikan","name":"Ikan","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
