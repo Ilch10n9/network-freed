@@ -4114,7 +4114,7 @@
     {
       "name": "19",
       "type": 1,
-      "url": "https://vip.fuqizhishi.com/?v=",
+      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="",
       "ext": {
         "flag": [
           "qiyi",
@@ -4197,6 +4197,11 @@
       "name": "21",
       "type": 0,
       "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "爱酷",
+      "type": 1,
+      "url": "https://json.iku.cool/api/jiexi/?key=5aycA5ly0Iteef7KI2&url="
     },
     {
       "name": "线路m9",
