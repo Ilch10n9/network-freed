@@ -4088,6 +4088,29 @@
       "type": 2,
       "url": "Sequence"
     },
+    {"name":"云you解析",
+     "type":1,
+     "url":"https://ax.jx.cn/api.php?url="
+    },
+    {"name":"云you解析2",
+     "type":1,
+     "url":"https://maoyingshi.cc/api.php?url=",
+     "ext":{
+       "flag":[
+         "qq",
+         "qiyi",
+         "mgtv",
+         "youku",
+         "letv",
+         "sohu",
+         "xigua",
+         "1905"
+       ],
+       "header":{
+         "User-Agent":"Dart/2.14 (dart:io)"
+       }
+     }
+    },
     {
       "name": "龙虾🦞",
       "type": 1,
@@ -4128,12 +4151,12 @@
     {
       "name": "fq",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
+      "url": "https://play.fuqizhishi.com/API.php?url="
     },
     {
       "name": "丑",
       "type": 1,
-      "url": "https://jx.parwix.com:4433/player/?url=",
+      "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
         "flag": [
           "qiyi",
