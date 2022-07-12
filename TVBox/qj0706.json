@@ -4112,29 +4112,9 @@
      }
     },
     {
-      "name": "龙虾🦞",
-      "type": 1,
-      "url": "http://106.55.234.91:4433/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Dalvik/2.1.0"
-        }
-      }
-    },
-    {
       "name": "19",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url=",
+      "url": "https://vip.fuqizhishi.com/?v=",
       "ext": {
         "flag": [
           "qiyi",
@@ -4147,11 +4127,6 @@
           "1905"
         ]
       }
-    },
-    {
-      "name": "fq",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/API.php?url="
     },
     {
       "name": "丑",
