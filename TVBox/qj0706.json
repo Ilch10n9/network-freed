@@ -211,6 +211,16 @@
       "ext": "阿里Token"
     },
     {
+      "key": "哔嘀影视(cl)",
+      "name": "哔嘀影视(cl)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXP/biditd.json"
+    },
+    {
       "key": "csp_xpath_huya",
       "name": "🐯虎牙(XP)",
       "type": 3,
@@ -4088,28 +4098,30 @@
       "type": 2,
       "url": "Sequence"
     },
-    {"name":"云you解析",
-     "type":1,
-     "url":"https://ax.jx.cn/api.php?url="
+    {
+      "name": "云you解析",
+      "type": 1,
+      "url": "https://ax.jx.cn/api.php?url="
     },
-    {"name":"云you解析2",
-     "type":1,
-     "url":"https://maoyingshi.cc/api.php?url=",
-     "ext":{
-       "flag":[
-         "qq",
-         "qiyi",
-         "mgtv",
-         "youku",
-         "letv",
-         "sohu",
-         "xigua",
-         "1905"
-       ],
-       "header":{
-         "User-Agent":"Dart/2.14 (dart:io)"
-       }
-     }
+    {
+      "name": "云you解析2",
+      "type": 1,
+      "url": "https://maoyingshi.cc/api.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "qiyi",
+          "mgtv",
+          "youku",
+          "letv",
+          "sohu",
+          "xigua",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.14 (dart:io)"
+        }
+      }
     },
     {
       "name": "19",
