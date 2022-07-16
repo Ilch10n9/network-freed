@@ -211,6 +211,16 @@
       "ext": "阿里Token"
     },
     {
+      "key": "音范丝(cl)",
+      "name": "音范丝(cl)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXP/yinfans.json"
+    },
+    {
       "key": "哔嘀影视(cl)",
       "name": "哔嘀影视(cl)",
       "type": 3,
