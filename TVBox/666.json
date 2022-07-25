@@ -55,17 +55,17 @@
     
     {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 ## XB系列
-    {"key": "csp_555电影","name": "🥈555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://home.jundie.top:81/Cat/MaooXB/555电影.json"},
-    {"key":"csp_biubiu_瓜皮TV","name":"🥈瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXB/瓜皮TV.json"},
-    {"key":"csp_biubiu_乐猪影视","name":"🥈乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXB/乐猪影视.json"},
-    {"key":"csp_biubiu_影视工厂","name":"🥈影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXB/影视工厂.json"},
-    {"key":"csp_biubiu_F7好看剧","name":"🥈F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXB/F7好看剧.json"},
+    {"key": "csp_555电影","name": "🥈555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB/555电影.json"},
+    {"key":"csp_biubiu_瓜皮TV","name":"🥈瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB/瓜皮TV.json"},
+    {"key":"csp_biubiu_乐猪影视","name":"🥈乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB/乐猪影视.json"},
+    {"key":"csp_biubiu_影视工厂","name":"🥈影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB/影视工厂.json"},
+    {"key":"csp_biubiu_F7好看剧","name":"🥈F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB/F7好看剧.json"},
 
 ## XPath系列
-    {"key":"csp_xpath_dm84","name":"🥈动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/dm84.json"},
-    {"key":"csp_xpath_ddg","name":"🥈达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/dadagui.json"},
-    {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/Cat/MaooXP/bidid.json"},
-    {"key":"XP_yhdm","name":"🥈樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/Cat/MaooXP/yinghua.json"},
+    {"key":"csp_xpath_dm84","name":"🥈动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/dm84.json"},
+    {"key":"csp_xpath_ddg","name":"🥈达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/dadagui.json"},
+    {"key":"csp_xpath_bdcl","name":"🥈哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/bidid.json"},
+    {"key":"XP_yhdm","name":"🥈樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/yinghua.json"},
 
     #官采资源
 
