@@ -1784,6 +1784,15 @@
 		"filterable": 0,
 		"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXP/so2.json"
 	}, {
+		"key": "csp_桔子TV",
+		"name": "🐞桔子TV",
+		"type": 3,
+		"api": "csp_XPathMacFilter",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXP/桔子TV.json"	
+	}, {
 		"key": "8090资源",
 		"name": "🥉8090资源(官)",
 		"type": 1,
