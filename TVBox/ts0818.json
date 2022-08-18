@@ -25,8 +25,11 @@
   {"key": "在线直播（SP）","name": "在线直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-   {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"4554545gfdgd546"},
-  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"
+  {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+  {"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"4554545gfdgd546"},
+  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+  {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+  {"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/cupfox.json"
   }
   ],
   "lives": [
