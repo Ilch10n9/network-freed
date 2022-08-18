@@ -40,7 +40,7 @@
   {"key": "学堂","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/xt.json"},
   {"key": "美食","name": "美食乐欢天😂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/cook.json"},
   {"key": "棋牌","name": "🌝棋牌老头乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/我爱棋.txt"},
-  {"key": "球类","name": "体育扛把子球类🙄","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/我爱球.json"},
+  {"key": "球类","name": "体育扛把子球类🙄","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/我爱球.txt"},
   {"key": "UP主","name": "UP测评😊","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/UP测评.txt"},
   {"key": "EXCEL","name": "表格学习🤔","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/表格.txt"},
 
