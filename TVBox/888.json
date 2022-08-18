@@ -25,7 +25,7 @@
 	"ext": ""
 },
     {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-    {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+    {"key":"Smdyy_spider","name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"酷猫","name":"🐞酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/bili.json"
+      "ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/Bili.json"
     },
     {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/huya2.json"},
     {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/斗鱼.json"},
