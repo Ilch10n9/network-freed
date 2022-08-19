@@ -31,6 +31,7 @@
   {"key": "追剧喵","name": "🐞追剧喵","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,	"filterable": 1},
   {"key": "3EDY","name": "🐞3EDY(EXO)","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1}, 
   {"key": "csp_Wmkk","name": "🐞完美看看","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
+  {"key":"csp_Nbys","name":"🚧泥巴(跨栏)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "在线直播（SP）","name": "在线直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "csp_Yisou","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
   {"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},  
