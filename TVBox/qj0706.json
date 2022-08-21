@@ -5,7 +5,7 @@
   {"key":"293视频","name":"293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
   {"key": "泥巴","name": "泥巴(墙)","type": 4,"api": "http://z.kooo.eu.org/api/t4/nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "迷你","name": "迷你","type": 4,"api": "http://z.kooo.eu.org/api/t4/mini","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key": "293","name": "293","type": 4,"api": "http://z.kooo.eu.org/api/t4/293","searchable": 1,"quickSearch": 1,"filterable": 1},
+  //{"key": "293","name": "293","type": 4,"api": "http://z.kooo.eu.org/api/t4/293","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "KanSJ_spider","name": "看视界(SP)","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
   {"key":"Ikan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"小宝影院","name":"小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
