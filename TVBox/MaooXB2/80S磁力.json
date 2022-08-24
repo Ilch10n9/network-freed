@@ -5,7 +5,7 @@
 "直接播放": "0",
 "列表显示": "0",
 "横图显示": "0",
-"fenlei": "电视剧$/ju/list/----0--p/#电影$/movie/list/-----p/#综艺$/zy/list/----4--p#动漫$/dm/list/----14--p//",
+"fenlei": "电视剧$/ju/list/----0--p/#大陆剧$/ju/list/----9--p/#港台剧$/ju/list/----10--p/#日韩剧$/ju/list/----11--p/#欧美剧$/ju/list/----12--p/#电影$/movie/list/-----p/",
 "houzhui": "",
 "qishiye": "1",
 "shifouercijiequ": "1",
@@ -21,8 +21,8 @@
 "lianjieqian": "/",
 "lianjiehou": "\"",
 "ljqianzhui": "https://s.80s.tw/movie/",
-"fubiaotiqian": "class=\"tip\">",
-"fubiaotihou": "</",
+"fubiaotiqian": "",
+"fubiaotihou": "",
 "sousuohouzhui": "/voddetail/",
 "jspic": "pic",
 "jsname": "name",
@@ -66,3 +66,4 @@
 "bflianjieqian": "href=\"mag",
 "bflianjiehou": "\"",
 "bfqianzhui": "mag"}
+
