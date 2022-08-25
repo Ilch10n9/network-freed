@@ -6,7 +6,7 @@
   "sites": [
   {"key":"360","name":"360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"293视频","name":"293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-  {"key": "gaze","name": "注视(T4)","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
+  //{"key": "gaze","name": "注视(T4)","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
   //{"key": "kkys","name": "看123(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/kkys","searchable": 1,"quickSearch": 1,"filterable": 1},
   //{"key": "蜂鸟","name": "蜂鸟(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/fnsp","searchable": 1,"quickSearch": 1,"filterable": 1},
   //{"key": "Cokemv","name": "Cokemv(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
