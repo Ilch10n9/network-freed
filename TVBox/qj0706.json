@@ -20,7 +20,7 @@
   //{"key": "293","name": "293(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/293","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "KanSJ_spider","name": "看视界(SP)","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
   {"key":"Ikan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"小宝影院","name":"小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+  //{"key":"小宝影院","name":"小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"If101","name":"If101(SP)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"Olevod","name":"Olevod(SP)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"低端影视","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
