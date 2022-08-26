@@ -1,8 +1,9 @@
 {
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK081901.jar;md5;acc9342e0488b454637854295249dfb1",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082201.jar;md5;93916ACFF9FC42EA3A679A8209BB640B",
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082202.jar;md5;C130118E3626CA0ED2A1A189319DE08D",
+  //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082202.jar;md5;C130118E3626CA0ED2A1A189319DE08D",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/BW082201.jar;md5;FE05AB5A06AF17292F3D61712908788D",
+  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082601.jar;md5;CAC971D402787D236CF1077C8764EA8D",
   "sites": [
   {"key":"360","name":"360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"293视频","name":"293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
