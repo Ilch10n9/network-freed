@@ -25,7 +25,7 @@
   //{"key":"小宝影院","name":"小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"If101","name":"If101(SP)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"Olevod","name":"Olevod(SP)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"低端影视","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+  //{"key":"低端影视","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小苹果","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Lib","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"Mayi","name":"麻衣高清(SP)","type":3,"api":"csp_Mayi","searchable":1,"quickSearch":1,"filterable":1},
