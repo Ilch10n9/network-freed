@@ -1,8 +1,9 @@
 {
+  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/gg0828.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/gg0826.jar;md5;b10d1d0527e69bcdc323a4c0bf9e5d65",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/BTW082602.jar;md5;722596334701127b12e81196c9c4b35f",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/BTW082601.jar;md5;6E16B95C609EF38FDEF78DD076236CA9",
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082603.jar;md5;F3426EEC7E3B02293E20387A98A1131B",
+  //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082603.jar;md5;F3426EEC7E3B02293E20387A98A1131B",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082602.jar;md5;F772B0AF73D43BE1C8F1B664101B32A8",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK081901.jar;md5;acc9342e0488b454637854295249dfb1",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082201.jar;md5;93916ACFF9FC42EA3A679A8209BB640B",
@@ -10,7 +11,7 @@
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/BW082201.jar;md5;FE05AB5A06AF17292F3D61712908788D",
   //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/LK082601.jar;md5;CAC971D402787D236CF1077C8764EA8D",
   "sites": [
-  //{"key":"厂长影视","name":"厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"厂长影视","name":"厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
   //{"key": "gaze","name": "注视(T4)","type": 4,"api": "https://t4.catvod.eu.org/catvod/gaze","searchable": 1,"quickSearch": 1,"filterable": 1},
   //{"key": "kkys","name": "看123(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/kkys","searchable": 1,"quickSearch": 1,"filterable": 1},
   //{"key": "蜂鸟","name": "蜂鸟(T4)","type": 4,"api": "http://z.kooo.eu.org/api/t4/fnsp","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -25,7 +26,7 @@
   //{"key":"小宝影院","name":"小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"If101","name":"If101(SP)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"Olevod","name":"Olevod(SP)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
-  //{"key":"低端影视","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"低端影视","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小苹果","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Lib","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"Mayi","name":"麻衣高清(SP)","type":3,"api":"csp_Mayi","searchable":1,"quickSearch":1,"filterable":1},
