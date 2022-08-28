@@ -65,7 +65,7 @@
   {"key":"push_agent","name":"🎲推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438"},
   {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=xxxxxxxxx&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
   {"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key": "csp_Alist","name": "Alist2(SP)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
+  {"key": "csp_Alist","name": "Alist(SP)","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
   {"key":"Bili","name":"B站","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/Bili.json"},
   {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
   {"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/cupfox.json"}, 
