@@ -93,7 +93,7 @@
   {"key":"csp_biubiu_歪片星球","name":"💫歪片星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/歪片星球.json"},
   {"key":"csp_biubiu_voflix","name":"💫voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/voflix.json"},
   {"key":"csp_biubiu_美剧星球","name":"💫美剧星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/akmeiju.json"},
-  {"key":"csp_biubiu_美剧虫","name":"💫美剧虫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/美剧虫+.json"},
+  {"key":"csp_biubiu_美剧虫","name":"💫美剧虫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/美剧虫.json"},
   {"key":"csp_biubiu_秋千影视","name":"💫秋千影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/秋千影视.json"},
   {"key":"csp_biubiu_蓝豆TV","name":"💫蓝豆TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/蓝豆TV.json"},
   {"key":"csp_biubiu_韩剧在线","name":"💫韩剧在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/韩剧在线.json"},
