@@ -42,7 +42,7 @@
 	"dtNameR": "",
     // 视频图片
 	"dtImg": "//img[contains(@class,'ls-is-cached lazy lazyload')]/@data-original",
-	//"dtImgR": "\\S+(http\\S+)",
+	"dtImgR": "\\S+(http\\S+)",
 	
 	"dtCate": "//div[@class='module-info-tag-link']//a[@href, '/vodshow/class/(\\S+).html']/text()",
   "dtCateR": "",
@@ -56,8 +56,7 @@
   "dtActorR": "",
   "dtDirector": " //a[contains(@href,'director')]/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[contains(@class,'module-blocklist scroll-box scroll-box-y module-player-list')]/span/text()
-",
+  "dtDesc": "//div[contains(@class,'module-blocklist scroll-box scroll-box-y module-player-list')]/span/text()",
   "dtDescR": "",
   
     // 播放源节点
