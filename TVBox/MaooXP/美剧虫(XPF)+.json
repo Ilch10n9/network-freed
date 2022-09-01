@@ -18,7 +18,7 @@
   "cateManual": {},
 
   
-  "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}/letter/{letter}.html",
+  "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
   
   "cateVodNode": "//a[contains(@class,'module-poster-item module-item')]",
   
@@ -44,7 +44,7 @@
 	"dtImg": "//img[contains(@class,'ls-is-cached lazy lazyload')]/@data-original",
 	"dtImgR": "\\S+(http\\S+)",
 	
-	"dtCate": "//div[@class='module-info-tag-link']//a[@href, '/vodshow/class/(\\S+).html']/text()",
+	"dtCate": "",
   "dtCateR": "",
   "dtYear": "//a[contains(@href,'year')]/text()",
   "dtYearR": "",
