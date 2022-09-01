@@ -18,7 +18,7 @@
   "cateManual": {},
 
   
-  "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}/letter/{letter}.html",
   
   "cateVodNode": "//a[contains(@class,'module-poster-item module-item')]",
   
@@ -32,7 +32,7 @@
   
   "cateVodImgR": "",
   
-  "cateVodMark": "//div[contains(@class,'module-item-note')]/text()//div[contains(@class, 'module-item-douban')]",
+  "cateVodMark": "//div[contains(@class,'module-item-note')]/text()",
   
 	"dtUrl": "https://meijuchong.cc/voddetail/{vid}.html",
     // 详情节点
