@@ -18,7 +18,7 @@
   "cateManual": {},
 
   
-  "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}/letter/{letter}.html",
+  "cateUrl": "https://meijuchong.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}/id/{cateId}/page/{catePg}/letter/{letter}.html",
   
   "cateVodNode": "//a[contains(@class,'module-poster-item module-item')]",
   
