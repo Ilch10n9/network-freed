@@ -1,5 +1,5 @@
 {
-  "author":"Long",
+  "author":"率性而活",
   
   "homeUrl": "https://meijuchong.cc/",
   "dcVipFlag": "true",
@@ -32,7 +32,7 @@
   
   "cateVodImgR": "",
   
-  "cateVodMark": "//div[contains(@class,'module-item-note')]/text()//div[contains(@class, 'module-item-douban')]",
+  "cateVodMark": "//div[contains(@class,'module-item-note')]/text()",
   
 	"dtUrl": "https://meijuchong.cc/voddetail/{vid}.html",
     // 详情节点
@@ -302,7 +302,7 @@
           }
         ]
       },
-
+      
       
       {
         "key": "by",
@@ -563,7 +563,7 @@
         ]
       },
       
-
+      
       {
         "key": "by",
         "name": "排序",
@@ -773,7 +773,7 @@
         ]
       },
       
-
+      
       {
         "key": "by",
         "name": "排序",
@@ -1007,7 +1007,7 @@
         ]
       },
       
-
+      
       {
         "key": "by",
         "name": "排序",
@@ -1209,7 +1209,7 @@
         ]
       },
       
-
+      
       {
         "key": "by",
         "name": "排序",
