@@ -155,6 +155,7 @@
   {"key":"csp_biubiu_听书网","name":"🥒听书网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/tsw.json"},
 
     ## XPath系列
+  {"key":"csp_xpath_tuxiaobei","name":"兔小贝(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/tuxiaobei.json"},
   {"key":"csp_xpath_grab4k","name":"😻grab4k(CL)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/grab4k.json"},
   {"key": "音范丝(cl)","name": "音范丝(CL)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXP/yinfans.json"},
   //{"key": "哔嘀影视(cl)","name": "哔嘀影视(CL)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXP/biditd.json"},
