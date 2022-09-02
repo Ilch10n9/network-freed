@@ -1,0 +1,104 @@
+{
+	"ua": "Mozilla/5.0 (Linux; Android 10; Redmi K20 Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.105 Mobile Safari/537.36 SearchCraft/2.8.2 baiduboxapp/3.2.5.10",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.tuxiaobei.com/",
+    // 分类节点
+	"cateNode": "//div[contains(@class,'index-title')]//span[contains(@class, 'text')]",
+    // 分类名
+	"cateName": "/text()",
+    // 分类id
+	"cateId": "//div[contains(@class='right')]/@href",
+    // 分类id二次处理正则
+	"cateIdR": "/list/(\\d+).html",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {},
+    // 首页推荐视频的节点
+	"homeVodNode": "",
+    // 首页推荐视频的名称
+	"homeVodName": "",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "",
+    // 二次处理正则
+	"homeVodIdR": "",
+    // 首页推荐视频的图片
+	"homeVodImg": "",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+	"homeVodMark": "",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://www.tuxiaobei.com/list/{cateId}/{catePg}",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='list-con']",
+	"cateVodName": "//jsonp_(\\d+)/[contains('data')/@name",
+	"cateVodId": "//jsonp_(\\d+)/[contains('data')/@video_id",
+	"cateVodIdR": "",
+	"cateVodImg": "//jsonp_(\\d+)/[contains('data')/@image",
+	"cateVodMark": "//jsonp_(\\d+)/[contains('data')/@duration_string&@play_num",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.tuxiaobei.com/play/{vid}",
+    // 详情节点
+	"dtNode": "//div[@class='h88']",
+    // 视频名
+	"dtName": "//div[@class='info']//div[@class='title']",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//div[@class='data']//span[contains(@class='time', class='number')]",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[contains(@class,'h88')]/div[@class='video']",
+    // 播放源名称
+	"dtFromName": "",
+    // 二次处理正则
+	"dtFromNameR": "",
+    // 播放列表节点
+	"dtUrlNode": "",
+    // 播放地址节点
+	"dtUrlSubNode": "/mip-search-video",
+    // 播放地址
+	"dtUrlId": "@video-src",
+    // 二次处理正则
+	"dtUrlIdR": "video/(\\S+).mp4",
+    // 剧集名称
+	"dtUrlName": "//div[contains(@class='info')]//div[@class='title']",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://res.tuxiaobei.com/video/{playUrl}.mp4",
+    // 解析webview的user-agent
+	"playUa": "Mozilla/5.0 (Linux; Android 10; Redmi K20 Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.105 Mobile Safari/537.36 SearchCraft/2.8.2 baiduboxapp/3.2.5.10",
+    // 搜索地址
+	"searchUrl": "https://www.tuxiaobei.com/search?wd={wd}",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+	"scVodNode": "//div[@class='search-result']",
+	"scVodName": "//p/@title",
+	"scVodId": "//a/@href",
+	"scVodIdR": "/play/(\\S+).html",
+	"scVodImg": "//div[contains(@class,='pic')]/mip-img/@src",
+	"scVodMark": ""
+}
