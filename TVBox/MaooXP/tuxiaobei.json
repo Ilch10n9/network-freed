@@ -7,7 +7,7 @@
     // 分类名
 	"cateName": "/text()",
     // 分类id
-	"cateId": "//div[contains(@class='right')]/@href",
+	"cateId": "//div[contains(@class='right')]//@href",
     // 分类id二次处理正则
 	"cateIdR": "/list/(\\d+).html",
     // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
