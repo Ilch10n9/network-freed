@@ -1,5 +1,6 @@
 {"name": "兔小贝",
 "url": "https://www.tuxiaobei.com",
+"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
 "直接播放": "1",
 "列表显示": "0",
 "横图显示": "1",
@@ -10,14 +11,14 @@
 "jiequqian": "<ul class=\"imgList all_img clearfix",
 "jiequhou": "</ul>",
 "jiequshuzuqian": "<a",
-"jiequshuzuhou": "</ a>",
+"jiequshuzuhou": "</a>",
 "tupianqian": "src=\"",
 "tupianhou": "\"",
 "tupianqianzhui":"",
-"biaotiqian": "class=\"tit\">",
-"biaotihou": "</p >",
-"fubiaotiqian":"class=\"num\">",
-"fubiaotihou":"</p >",
-"lianjieqian": "href=\"",
-"lianjiehou": "\""
+"biaotiqian": "class=\"tit\">\"",
+"biaotihou": "</p>\"",
+"fubiaotiqian":"class=\"num\">\"",
+"fubiaotihou":"</p>",
+"lianjieqian": "contentUrl\"",
+"lianjiehou": ", \""
 },
