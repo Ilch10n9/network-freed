@@ -3,7 +3,7 @@
     // 首页地址 用于获取 分类和首页推荐
 	"homeUrl": "https://www.tuxiaobei.com/",
     // 分类节点
-	"cateNode": "//div[contains(@class,'index-title')]//span[contains(@class, 'text')]",
+	"cateNode": "//div[contains(@class,'index-title')]/span",
     // 分类名
 	"cateName": "/text()",
     // 分类id
