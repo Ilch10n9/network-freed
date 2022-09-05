@@ -23,16 +23,10 @@
   {"key":"360","name":"360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Ikan","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Kunyu77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-  //{"key": "csp_Kmys","name":"酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key":"csp_Bttoo","name":"两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "3EDY","name": "3EDY(EXO)(SP)","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1}, 
   {"key":"csp_Tkys","name":"天空影视(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Mayi","name":"麻衣高清(SP)","type":3,"api":"csp_Mayi","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Nfyun","name":"Nf云(SP)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Xxys","name":"小熊影视(SP)","type":3,"api":"csp_Xxys","filterable": 1,"quickSearch": 1,"searchable": 1},
-  {"key":"小宝影院","name":"小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"If101","name":"If101(SP)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Olevod","name":"Olevod(SP)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 
     ##阿里系列
   {"key": "csp_Yiso","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"7b78e7a5aa8a4a8bb722ec7e171d9438"},
