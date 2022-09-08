@@ -5,7 +5,6 @@
   {"key":"厂长影视","name":"厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"293视频","name":"293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
   {"key": "KanSJ_spider","name": "看视界(SP)","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
-  {"key":"低端影视","name":"低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小苹果","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Lib","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Dy555","name":"五五五(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
