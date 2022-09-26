@@ -37,7 +37,6 @@
   {"key": "少儿","name": "少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/sejy.json"},
   {"key": "学堂","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/xt.json"},
   {"key": "美食","name": "美食乐欢天😂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/cook.json"},
-  {"key":"dr_兔小贝","name":"兔小贝┃儿童教育","type":1,"api":"https://ilch10n9.github.io/network-freed/TVBox/sub/兔小贝.json","searchable":2,"quickSearch":0,"filterable":0},
   {"key":"csp_biubiu_LIBVIO","name": "Libvio(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB/libv.json"},
   {"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/cupfox.json"},
   {"key":"csp_biubiu_速搜影视","name":"💫速搜影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/速搜影视.json"},
