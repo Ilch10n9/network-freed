@@ -16,7 +16,6 @@
   {"key":"Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-  {"key": "Smdyy_spider","name": "神马影视(SP)","api": "csp_Smdyy","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
   {"key": "追剧喵","name": "追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,	"filterable": 1},
   {"key":"csp_Mjxq","name":"美剧星球(SP)","type":3,"api":"csp_Mjxq","filterable": 1,"quickSearch": 1,"searchable": 1},
   {"key":"csp_Anime1","name":"Anime(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
