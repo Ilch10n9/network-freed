@@ -36,6 +36,7 @@
   {"key": "少儿","name": "少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/sejy.json"},
   {"key": "学堂","name": "学堂教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/sub/xt.json"},
   {"key": "美食","name": "美食乐欢天😂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/cook.json"},
+  {"key":"dr_兔小贝","name":"兔小贝┃儿童教育","type":1,"api":"https://ilch10n9.github.io/network-freed/TVBox/sub/兔小贝.json","searchable":2,"quickSearch":0,"filterable":0},
   {"key":"csp_biubiu_LIBVIO","name": "Libvio(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB/libv.json"},
   {"key":"茶杯狐","name":"🦊茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/cupfox.json"},
   {"key":"csp_biubiu_速搜影视","name":"💫速搜影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/速搜影视.json"},
@@ -83,6 +84,26 @@
   {"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/OmoFun动漫.json"},
   {"key":"csp_黑狐影视ns","name":"🍀黑狐影视NS(XB)","type":3,"api":"csp_XBiubiu","ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB/黑狐影视ns.json"},
   {"key":"csp_Nike影视","name":"🍀Nike影视(XB)","type":3,"api":"csp_XBiubiu","ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXB2/Nike影视网.json"},
+  {"key": "csp_xBPQ_荐片","name": "xBPQ | 荐片","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/jianpian.json"},
+  {"key": "csp_xBPQ_胖虎","name": "xBPQ | 胖虎影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/胖虎影视.json"},
+  {"key": "csp_xBPQ_大米星球","name": "️xBPQ | 大米星球","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/damixq.json"},
+  {"key": "csp_xBPQ_素白白","name": "xBPQ | 素白白","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/subaibai.json"},
+  {"key": "csp_xBPQ_厂长","name": "xBPQ | 厂长资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/changzzy.json"},
+  {"key": "csp_xBPQ_极品影视","name": "xBPQ | 极品影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/jipinys.json"},
+  {"key": "csp_xBPQ_皮皮泡影视","name": "xBPQ | 皮皮泡影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/pipipaoys.json"},
+  {"key": "csp_xBPQ_爱看影视","name": "xBPQ | 爱看影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/ikanys.json"},
+  {"key": "csp_xBPQ_555yy","name": "xBPQ | 555yy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/555ys.json"},
+  {"key": "csp_xf_cs","name": "️xBPQ | FREEOK","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/FREEOK.json"},
+  {"key": "csp_xBPQ_番茄","name": "xBPQ | 番茄影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/fanqieys.json"},
+  {"key": "csp_xBPQ_蓝光影视","name": "xBPQ | 蓝光影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/languangys.json"},
+  {"key": "csp_xBPQ_um影院","name": "xBPQ | UM影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/UMyy.json"},  
+  {"key": "csp_xBPQ_瓜皮TV","name": "xBPQ | 瓜皮TV","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/guapitv.json"},
+  {"key": "csp_xBPQ_cokemv","name": "xBPQ | cokemv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/cokemv.json"},
+  {"key": "csp_xBPQ_诺信影视","name": "xBPQ | 诺信影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/nuoxunys.json"},  
+  {"key": "csp_xBPQ_酷客影视","name": "xBPQ | 酷客影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/kukeys.json"},
+  {"key": "csp_xBPQ_干饭影视","name": "️️xBPQ | 干饭影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/ganfanys.json"},
+  {"key": "csp_xBPQ_花猫tv","name": "xBPQ | 花猫tv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/huamaotv.json"},
+  {"key": "csp_xBPQ","name": "️xBPQ | 真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/zhenbuka.json"}],
   {"key":"csp_xpath_grab4k","name":"😻grab4k(CL)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/grab4k.json"},
   {"key": "bdys","name": "🔍哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ilch10n9.github.io/network-freed/TVBox/MaooXP/Bdys.json"},
   {"key":"csp_xpath_jbb","name":"🎁剧白白(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/jubaibai.json"},
@@ -114,7 +135,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9pbGNoMTBuOS5naXRodWIuaW8vbmV0d29yay1mcmVlZC9UVkJveC90di9nZ3piLnR4dA=="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9pbGNoMTBuOS5naXRodWIuaW8vbmV0d29yay1mcmVlZC9UVkJveC90di9xanpiLnR4dA=="
           ]
         }
       ]
