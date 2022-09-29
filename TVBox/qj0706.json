@@ -1,6 +1,6 @@
 {
   "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/0917.jar;md5;89A367A21768E46BC528B6ECF735E1B3",
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/gg0925.jar;md5;B273AC2E81F1326724494FFF3AD88634",
+  //"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/gg0925.jar;md5;B273AC2E81F1326724494FFF3AD88634",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "sites": [
   {"key": "完美看看","name": "完美看看(SP)","type": 3,"api": "csp_Wmkk","searchable": 1,"quickSearch": 1,	"filterable": 1},
