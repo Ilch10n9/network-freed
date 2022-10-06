@@ -1,5 +1,5 @@
 {
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/cs1005.jar;md5;14405e6ec29c6dbfcca713966745f347",
+  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/gg0925.jar;md5;b273ac2e81f1326724494fff3ad88634",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "sites": [
   {"key": "Lezhu_spider","name": "乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
@@ -7,15 +7,11 @@
   {"key":"厂长影视","name":"厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "KanSJ_spider","name": "看视界(SP)","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
   {"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_NianYing","name":"NBhut","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Lib","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Dy555","name":"五五五(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-  {"key": "剧荒TV（SP）","name": "剧荒影视(SP)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {"key":"9E03","name":"9E03(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
   {"key":"Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "追剧喵","name": "追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,	"filterable": 1},
   {"key":"csp_Mjxq","name":"美剧星球(SP)","type":3,"api":"csp_Mjxq","filterable": 1,"quickSearch": 1,"searchable": 1},
   {"key":"csp_Anime1","name":"Anime(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
