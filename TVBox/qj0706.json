@@ -13,6 +13,7 @@
   {"key":"csp_Anime","name":"Anime(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Bttoo","name":"Bttoo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Ddrk","name":"低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "在线直播(SP)","name": "直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key":"360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小苹果","name":"苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
