@@ -1,6 +1,4 @@
 {
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/cc.jar;md5;53eb2714d09335dad87738de96796285",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "sites": [
   {"key": "Lezhu_spider","name": "乐猪(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
   {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -460,5 +458,7 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/cc.jar;md5;53eb2714d09335dad87738de96796285",
+  "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
