@@ -1,19 +1,18 @@
 {
+  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/cc.jar;md5;53eb2714d09335dad87738de96796285",
+  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "sites": [
   {"key": "Lezhu_spider","name": "乐猪(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
   {"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-  //{"key":"csp_AppTT","name":"图图(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Lgyy","name":"蓝光(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Fantuan","name":"饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Coke","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Bd","name":"哔嘀(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Ysgc","name":"影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Tkys","name":"天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
-  //{"key":"Lib","name":"Lib(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "追剧喵","name": "追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,	"filterable": 1},
   {"key":"csp_Mjxq","name":"美剧(SP)","type":3,"api":"csp_Mjxq","filterable": 1,"quickSearch": 1,"searchable": 1},
-  //{"key":"csp_Anime","name":"Anime(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Bttoo","name":"Bttoo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Ddrk","name":"低端(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Nkdy","name":"难看(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
@@ -458,7 +457,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/cc.jar;md5;53eb2714d09335dad87738de96796285",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
+  ]
 }
