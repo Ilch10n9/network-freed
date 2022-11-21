@@ -1,5 +1,5 @@
 {
-  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/cc.jar;md5;53eb2714d09335dad87738de96796285",
+  "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/xo.jar;md5;d8e043b5e4d5806a4783f90eed8b4f78",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "sites": [
   {"key": "Lezhu_spider","name": "乐猪(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
@@ -18,7 +18,7 @@
   {"key":"Nkdy","name":"难看(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Juhuang","name":"剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Dy555","name":"555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Zjdr","name":"追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"Zjdr","name":"追剧(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"在线之家","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Dm84","name":"动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "在线直播(SP)","name": "直播（SP）","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
