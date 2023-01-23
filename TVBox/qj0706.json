@@ -22,7 +22,7 @@
 {"key":"csp_apple","name":"🍎苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝Aue┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
 //{"key":"csp_ny","name":"🐮念影┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -45,7 +45,7 @@
 {"key":"csp_Dm84","name":"🚌动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐾日本动漫┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Ying","name": "💮樱花动漫┃SP","type": 3,"api": "csp_Ying","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_Ysj","name": "🎀异界动漫┃SP","type": 3,"api": "csp_Ysj","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_Ysj","name": "🎀异界动漫┃SP","type": 3,"api": "csp_Ysj","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Anfuns","name":"🎀 Anfuns┃SP","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xBPQ_dszb","name":"🈶电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/电视直播.json"},
