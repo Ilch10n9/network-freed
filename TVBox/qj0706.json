@@ -64,7 +64,7 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙直播","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXYQB/虎牙直播.json"},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXYQB/斗鱼直播.json"},
 {"key":"csp_xBPQ_聚短视频","name":"📽️聚短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/xBPQ/短视频.json"},
-{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/alist.json"},
+{"key":"csp_Alist1","name":"🅿Alist网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/alist.json"},
 
 {"key":"dr_兔小贝","name":"📚儿童启蒙","type":1,"api":"http://dr.饭太硬.ml/vod?rule=兔小贝","searchable":1,"quickSearch":1,"filterable":0},	
 {"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/少儿教育.json"},
