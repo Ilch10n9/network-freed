@@ -63,7 +63,7 @@
 //{"key":"csp_xBPQ_dszb","name":"🈶电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ilch10n9.github.io/network-freed/TVBox/xBPQ/电视直播.json"},
 {"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/sub/biliych.json"},
-{"key":t4豆瓣","name":"🅱豆瓣荐片┃T4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key":t4豆瓣","name":"🅱豆瓣荐片┃T4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 	
 {"key":"csp_XYQBiu_17看","name":"🏀 17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXYQB/17看.json"},
 {"key":"csp_XPath3_88","name":"⚽88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/88看球.json"},
