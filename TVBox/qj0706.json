@@ -1,5 +1,5 @@
 {
-"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/fan0311.jar;md5;492f9401fec7d490f6f2e48f045e1580",
+"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/0315fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZvbmdNaS9DYXRWb2RTcGlkZXIvbWFpbi9qc29uL2xpdmUuanNvbg=="]}]}],
 
@@ -9,6 +9,8 @@
 {"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"⏮️低端┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Cokemv","name":"📕Coke┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_YQKAPP","name": "🎉一起看┃App","type":3,"api": "csp_YQKAPP","playerType": 2,"m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.shumaxc.xyz"},    
+{"key": "csp_AppTT","name": "🐰图图┃App","type": 3,"api": "csp_AppTT","m3u8ads": "hd.youyhn.com","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 //{"key":"csp_AppTT","name":"🐰tutu┃SP","type":3,"api":"csp_AppTT2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://124.248.66.89:7788"},
 {"key":"csp_BuLei","name":"💢布雷┃SP","type":3,"api":"csp_BuLei","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Xinsj","name": "🐼新视觉┃SP","type": 3,"api": "csp_Xinsj","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
