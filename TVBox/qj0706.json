@@ -1,5 +1,5 @@
 {
-"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/fan0407.jar;md5;4e76031a18cb23b27867a2c0829492b7",
+"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/fan0425.jar;md5;779f9262ecdd8c9dcb468154a9ccf866",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZvbmdNaS9DYXRWb2RTcGlkZXIvbWFpbi9qc29uL2xpdmUuanNvbg=="]}]}],
 
