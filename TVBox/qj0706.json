@@ -1,7 +1,7 @@
 {
 "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/fan0505.jar;md5;528559dc26fc8138875e8bf32f670cac",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZvbmdNaS9DYXRWb2RTcGlkZXIvbWFpbi9qc29uL2xpdmUuanNvbg=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZvbmdNaS9DYXRWb2RTcGlkZXIvbWFpbi9qc29uL2xpdmUuanNvbg=="]}]}],
 
 "sites":[
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
