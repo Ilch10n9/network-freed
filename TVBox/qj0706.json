@@ -2,7 +2,7 @@
 "spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/fan0603.jar;md5;07099ea7d907106be7990ad9db491f2a",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9pbGNoMTBuOS5naXRodWIuaW8vbmV0d29yay1mcmVlZC9UVkJveC90di9saXZlLnR4dA=="]}]}],
-"lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9pbGNoMTBuOS5naXRodWIuaW8vbmV0d29yay1mcmVlZC9UVkJveC90di9saXZlLnR4dA=="]}],
 
 "sites":[
 {"key":"js豆瓣","name":"饭太硬┃豆瓣","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
