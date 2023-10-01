@@ -1,5 +1,5 @@
 {
-"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/fan0926.jar;md5;533f279c487b5bd34cf4947a7afbee34",
+"spider": "https://ilch10n9.github.io/network-freed/TVBox/jar/fan1001.jar;md5;64fa98fbba7758f483e6e82dea311f77",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9pbGNoMTBuOS5naXRodWIuaW8vbmV0d29yay1mcmVlZC9UVkJveC90di9saXZlLnR4dA=="]}]}],
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
@@ -28,6 +28,10 @@
 {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ilch10n9.github.io/network-freed/TVBox/MaooXP/nongminyingshi.json"},
 {"key": "率率","name": "💡率率┃直连","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"changeable": 1,"categories": ["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
+{"key": "Mino","name": "👻Mino┃App","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
+{"key": "追忆","name": "✌追忆┃App","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
+{"key": "毛驴","name": "🍓毛驴┃直连","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
+{"key": "橘子","name": "🍊橘子┃直连","type": 3,"api": "csp_Appto","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"},
 
 {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_Vofl","name":"🎈Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
